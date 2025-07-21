@@ -1,3 +1,6 @@
+RESUMEN DE ALGUNOS DE LOS PROYECTOS
+
+
 ALO_V3.py:
 
 Desarrollé un sistema de predicción basado en Gradient Boosting Regressor para estimar la probabilidad de que una llamada sea aceptada en un día, hora y área determinados. El modelo se entrena automáticamente desde un CSV si no existe previamente, y grafica la curva de pérdida para evaluar su rendimiento. 
