@@ -6,6 +6,7 @@ Incluye una interfaz por consola para consultar predicciones en tiempo real o a 
 
 
 SVM iris.py:
+
 Entrené y visualicé clasificadores SVM con kernel lineal sobre el dataset Iris. Comparé dos configuraciones distintas: una con margen duro (C alto) que busca separar las clases perfectamente, y otra con margen suave (C bajo) que permite errores para mejorar la generalización. 
 Utilicé solo dos características para poder graficar las fronteras de decisión y mostrar cómo influye el parámetro C en el modelo.
 
