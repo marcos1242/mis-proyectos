@@ -16,3 +16,7 @@ agrupamiento DBSCAN iris verdadero.py:
 
 Implementé un análisis de clustering no supervisado utilizando el dataset Iris. Apliqué escalado estándar, reducción de dimensionalidad con PCA, y agrupamiento con DBSCAN para identificar patrones sin etiquetas.
 Comparé visualmente los clústeres detectados con las clases reales, destacando la capacidad del modelo para encontrar estructuras ocultas en los datos.
+
+analisis_discrimante.py:
+
+Implementé un clasificador de Análisis Discriminante Lineal (LDA) sobre el dataset Iris, evaluando su rendimiento con validación cruzada estratificada (RepeatedKFold). Realicé una predicción sobre una nueva observación y visualicé la proyección de los datos en el espacio LDA, mostrando cómo se separan las clases linealmente.
